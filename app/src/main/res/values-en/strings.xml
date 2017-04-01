@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Title</string>
+    <string name="Peso">WEIGHT</string>
+    <string name="Altura">Height</string>
+    <string name="Calcular">calculate</string>
+    <string name="Acercade">About</string>
+    <string name="Salir">Exit</string>
+    <string name="calcular">Calculate</string>
+    <string name="Delgadezsevera">" Severe thinness = * POSTRATION * DEGENERTIVE DISEASE"</string>
+    <string name="obesidamorbida">Morbid Obesity = * ANOREXIA * BULIMIA * OSTEOPOROSIS</string>
+    <string name="delgadezmoderada">" Moderate thinness = * DIGESTIVE DISORDER * WEAKNESS"</string>
+    <string name="delgadesLeve">" Light Thinness = * STRESS ANXIETY * HORMONAL DIFFUSION"</string>
+    <string name="TienePesoNormal">" You have normal weight = * GOOD ENERGY LEVEL"</string>
+    <string name="Preobesidad">" Preobesity = * FATIGUE * DIGESTIVE DISEASES"</string>
+    <string name="ObesidadLeve">" Mild obesity = * DIABETES * CANCER * INFARCTION"</string>
+    <string name="ObesidadMorvida">" Average Obesity = * LACK OF AIR * PROSTATE CANCER"</string>
+</resources>

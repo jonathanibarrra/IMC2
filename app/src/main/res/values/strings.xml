@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="botonoperacion"></string>
+    <string name="Peso">Peso</string>
+    <string name="calcular">Calcular</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Acercade">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="Estatura">Estatura</string>
+    <string name="Altura">Altura</string>
+    <string name="Delgadezsevera">Delgadez severa =*POSTRACION *ENFERMEDAD DEGENERTIVAS</string>
+    <string name="obesidamorbida">"Obesidad mórbida =*ANOREXIA *BULIMIA *OSTEOPOROSIS "</string>
+    <string name="delgadezmoderada">Delgadez moderada  =*TRASTORNO DIGESTIVOS *DEBILIDAD</string>
+    <string name="delgadesLeve">Delgadez Leve  =*ESTRES ANSIEDAD *DIFUCION HORMONAL</string>
+    <string name="TienePesoNormal">Tienes peso normal = *BUEN NIVEL DE ENERGIA</string>
+    <string name="Preobesidad">Preobesidad  =*FATIGA *ENFERMEDADES DIGESTIVAS</string>
+    <string name="ObesidadLeve">Obesidad leve  =*DIABETES *CANCER*INFARTO</string>
+    <string name="ObesidadMorvida">Obesidad media =*fALTA DE AIRE *CANCER DE PROSTATA</string>
+    <string name="app_name">Titulo</string>
+</resources>
